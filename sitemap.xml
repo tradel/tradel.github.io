@@ -6,71 +6,71 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://codefromthefield.com/</loc>
+  <loc>https://www.codefromthefield.com/</loc>
   <lastmod>2016-11-21T04:04:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/2014/</loc>
+  <loc>https://www.codefromthefield.com/2014/</loc>
   <lastmod>2016-11-19T20:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/2016/</loc>
+  <loc>https://www.codefromthefield.com/2016/</loc>
   <lastmod>2016-11-19T20:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/archive.html</loc>
-  <lastmod>2016-11-21T03:56:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/archive.html</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/</loc>
+  <loc>https://www.codefromthefield.com/categories/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/cat_dataloop/</loc>
+  <loc>https://www.codefromthefield.com/categories/cat_dataloop/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/cat_java/</loc>
+  <loc>https://www.codefromthefield.com/categories/cat_java/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/dataloop/</loc>
+  <loc>https://www.codefromthefield.com/categories/dataloop/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/jackson/</loc>
+  <loc>https://www.codefromthefield.com/categories/jackson/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/java/</loc>
+  <loc>https://www.codefromthefield.com/categories/java/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/categories/jersey/</loc>
+  <loc>https://www.codefromthefield.com/categories/jersey/</loc>
   <lastmod>2016-11-21T03:25:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/galleries/</loc>
+  <loc>https://www.codefromthefield.com/galleries/</loc>
   <lastmod>2016-11-19T20:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/listings/</loc>
+  <loc>https://www.codefromthefield.com/listings/</loc>
   <lastmod>2016-11-19T20:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/pages/about-me/</loc>
+  <loc>https://www.codefromthefield.com/pages/about-me/</loc>
   <lastmod>2016-11-21T02:55:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/posts/custom-null-serialization-with-jackson-2/</loc>
-  <lastmod>2016-11-19T20:06:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/posts/custom-null-serialization-with-jackson-2/</loc>
+  <lastmod>2016-11-21T14:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/posts/installing-dataloop-agents-on-fedora-23/</loc>
-  <lastmod>2016-11-19T20:06:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/posts/installing-dataloop-agents-on-fedora-23/</loc>
+  <lastmod>2016-11-21T14:52:00Z</lastmod>
  </url>
  <url>
-  <loc>https://codefromthefield.com/posts/using-jackson-2-with-jersey-1/</loc>
-  <lastmod>2016-11-19T20:06:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/posts/using-jackson-2-with-jersey-1/</loc>
+  <lastmod>2016-11-21T14:52:00Z</lastmod>
  </url>
 </urlset>

@@ -1,4 +1,4 @@
-Sitemap: https://codefromthefield.com/sitemapindex.xml
+Sitemap: https://www.codefromthefield.com/sitemapindex.xml
 
 User-Agent: *
-Host: codefromthefield.com
+Host: www.codefromthefield.com

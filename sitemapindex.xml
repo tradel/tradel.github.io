@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://codefromthefield.com/categories/cat_dataloop.xml</loc>
-  <lastmod>2016-11-21T04:04:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/cat_dataloop.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/categories/cat_java.xml</loc>
-  <lastmod>2016-11-21T03:28:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/cat_java.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/categories/dataloop.xml</loc>
-  <lastmod>2016-11-21T04:04:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/dataloop.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/categories/jackson.xml</loc>
-  <lastmod>2016-11-21T03:28:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/jackson.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/categories/java.xml</loc>
-  <lastmod>2016-11-21T03:28:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/java.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/categories/jersey.xml</loc>
-  <lastmod>2016-11-21T03:28:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/categories/jersey.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/galleries/rss.xml</loc>
-  <lastmod>2016-11-21T03:56:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/galleries/rss.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/rss.xml</loc>
-  <lastmod>2016-11-21T04:04:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/rss.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://codefromthefield.com/sitemap.xml</loc>
-  <lastmod>2016-11-21T04:04:00Z</lastmod>
+  <loc>https://www.codefromthefield.com/sitemap.xml</loc>
+  <lastmod>2016-11-21T15:06:00Z</lastmod>
  </sitemap>
 </sitemapindex>
